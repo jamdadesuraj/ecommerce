@@ -1,0 +1,21 @@
+.heading .heading_left i {
+  font-size: 30px;
+}
+
+.heading .heading_left h2 {
+  font-size: 25px;
+  margin: 5px;
+}
+.heading .heading_right,
+.heading .heading_right i {
+  text-align: right;
+  color: gray;
+}
+
+.topCate {
+  position: relative;
+}
+.topCate img {
+  width: 100%;
+  height: 100%;
+}

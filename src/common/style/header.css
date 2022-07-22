@@ -1,0 +1,16 @@
+/* -------------------------------head style------------------------------ */
+
+.head {
+  background-color: rgb(39, 39, 155);
+  color: #fff;
+  padding: 10px 0;
+}
+.head i {
+  margin-right: 10px;
+}
+.head label {
+  margin-right: 30px;
+  font-size: 13px;
+}
+
+/* -------------------------------head style end------------------------------ */
